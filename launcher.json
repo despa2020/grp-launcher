@@ -1,0 +1,56 @@
+{
+  "links": {
+    "discord": "https://discord.gg/EGPCqzwu7W",
+    "vk": "",
+    "telegram": "",
+    "help": "",
+    "donate": ""
+  },
+  "mods": [
+    {
+      "name": "Croptopia-1.20.1-FORGE-4.0.1.jar",
+      "url": "https://github.com/despa2020/grp-launcher/releases/download/mods/Croptopia-1.20.1-FORGE-4.0.1.jar",
+      "sha1": "ddec955cea11a6d65b8bdc50951d11e0896353d6"
+    },
+    {
+      "name": "EpheroLib-1.20.1-FORGE-1.2.0.jar",
+      "url": "https://github.com/despa2020/grp-launcher/releases/download/mods/EpheroLib-1.20.1-FORGE-1.2.0.jar",
+      "sha1": "1eca21b906d38321bf60919dd3b12d160e5e6935"
+    },
+    {
+      "name": "GlitchCore-forge-1.20.1-0.0.1.1.jar",
+      "url": "https://github.com/despa2020/grp-launcher/releases/download/mods/GlitchCore-forge-1.20.1-0.0.1.1.jar",
+      "sha1": "1a0aaf7c33b9acb26bf75899a43e8941cac1f6e7"
+    },
+    {
+      "name": "Immersive-Vehicles-1.20.1-24.0.0.jar",
+      "url": "https://github.com/despa2020/grp-launcher/releases/download/mods/Immersive-Vehicles-1.20.1-24.0.0.jar",
+      "sha1": "efe6962bf0304eb7ac234daa75551bf8e30ef3b7"
+    },
+    {
+      "name": "MTS-Official-Pack-1.20.1-V29.jar",
+      "url": "https://github.com/despa2020/grp-launcher/releases/download/mods/MTS-Official-Pack-1.20.1-V29.jar",
+      "sha1": "9307186fe7f109f0fcc8397bb4457cb956822b88"
+    },
+    {
+      "name": "ToughAsNails-forge-1.20.1-9.2.0.171.jar",
+      "url": "https://github.com/despa2020/grp-launcher/releases/download/mods/ToughAsNails-forge-1.20.1-9.2.0.171.jar",
+      "sha1": "e1caa4a2fb30965913aefe84fe55acffdaaab26e"
+    },
+    {
+      "name": "nosingleplayer-0_0_2Alpha-forge-1_20_1.jar",
+      "url": "https://github.com/despa2020/grp-launcher/releases/download/mods/nosingleplayer-0_0_2Alpha-forge-1_20_1.jar",
+      "sha1": "0489f8e8a61ffd5b19e7b0c7bb2467336481ccb5"
+    },
+    {
+      "name": "tacz-1.20.1-1.1.8-hotfix2.jar",
+      "url": "https://github.com/despa2020/grp-launcher/releases/download/mods/tacz-1.20.1-1.1.8-hotfix2.jar",
+      "sha1": "5c2f72dfe8125ffa863e3b5feafa27d86d7e56ea"
+    },
+    {
+      "name": "voicechat-forge-1.20.1-2.6.22.jar",
+      "url": "https://github.com/despa2020/grp-launcher/releases/download/mods/voicechat-forge-1.20.1-2.6.22.jar",
+      "sha1": "ad9179e30cb7b3ffb42b3d9b8e2e9408b473d7fa"
+    }
+  ]
+}
